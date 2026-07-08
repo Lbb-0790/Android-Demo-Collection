@@ -1,0 +1,2 @@
+# test_mic
+这是一个demo 仿照mtk源码的soundrecord录音模式写的一个录音功能 包括可以操作测试的apk
